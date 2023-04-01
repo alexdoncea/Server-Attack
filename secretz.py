@@ -1,0 +1,3 @@
+INTEGRITY_LEN = 1
+SERVER_PUBLIC_BANNER = b"AXN1p+X5"
+FLAG = b"You got it!"
